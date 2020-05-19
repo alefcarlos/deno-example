@@ -1,7 +1,6 @@
 /**
  * Sum values
  * @param  {number[]} ...args - Values
- * @returns number - Sum of values
  * 
  * Example:
  *
